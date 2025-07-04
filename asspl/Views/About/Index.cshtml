@@ -1,0 +1,263 @@
+﻿@{
+    ViewData["Title"] = "about";
+}
+
+<style>
+    .card-img-top {
+        width: 100%;
+        height: 320px;
+        object-fit: cover;
+        object-position: center;
+    }
+
+    body {
+        margin: 0;
+        font-family: "Segoe UI", sans-serif;
+        background-color: #f9f9f9;
+    }
+
+    .container {
+        max-width: 1200px;
+        margin: 0px auto;
+        padding: 0 15px;
+    }
+
+    h3 {
+        text-align: center;
+        font-size: 2rem;
+        margin-bottom: 20px;
+    }
+
+    .short {
+        width: 60px;
+        border: 2px solid ;
+        margin: 10px auto 40px;
+    }
+
+    .grid {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .card {
+        background-color: white;
+        border-radius: 8px;
+        box-shadow: 0 0 15px rgba(0,0,0,0.1);
+        padding: 30px;
+        width: 350px;
+        position: relative;
+        transition: all 0.3s ease;
+        cursor: pointer;
+    }
+
+        .card::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 100%;
+            width: 100%;
+            background: linear-gradient(to right, #ff8008, #ffc837);
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            z-index: 0;
+        }
+
+        .card.active::before {
+            opacity: 0.9;
+        }
+
+        .card * {
+            position: relative;
+            z-index: 1;
+        }
+
+        .card h4 {
+            font-size: 1.25rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .card p {
+            font-size: 0.95rem;
+            color: #555;
+        }
+
+    /* .icon-box {
+        height: 20px;
+        width: 20px;
+        border: 2px solid red;
+        margin-bottom: 20px;
+    } */
+
+    .card.active h4,
+    .card.active p {
+        color: white;
+    }
+
+    .spaced-section {
+        margin-top: 100px; /* space above */
+        margin-bottom: 100px; /* space after */
+    }
+
+    .spaced-heading {
+        margin-top: 80px; /* extra space above heading */
+    }
+</style>
+
+    <!-- ============================================-->
+    <!-- <section> begin ============================-->
+    <section>
+    <div class="bg-holder overlay" style="background-position:center bottom;">
+        <img src="~/img/background-2.jpg" />
+    </div>
+        <!--/.bg-holder-->
+        <div class="container">
+            <div class="row pt-6" data-inertia='{"weight":1.5}'>
+                <div class="col-md-8 text-white" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                    <div class="overflow-hidden">
+                        <h1 class="text-white fs-4 fs-md-5 mb-0 lh-1" data-zanim-xs='{"delay":0}'>About</h1>
+                        <div class="nav" aria-label="breadcrumb" role="navigation" data-zanim-xs='{"delay":0.1}'>
+                            <ol class="breadcrumb fs-1 ps-0 fw-bold">
+                            <li class="breadcrumb-item"><a class="text-white" asp-controller="Home" asp-action="Index">Home</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">About</li>
+                            </ol>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!-- end of .container-->
+    </section><!-- <section> close ============================-->
+    <!-- ============================================-->
+    <!-- ===============================================-->
+    <!--    Main Content-->
+    <!-- ===============================================-->
+    <main class="main" id="top">
+
+        <!-- ============================================-->
+        <!-- <section> begin ============================-->
+        <section class="bg-100">
+            <div class="container">
+                <div class="row g-0">
+                    <div class="col-lg-4 py-3 py-lg-0 position-relative" style="min-height:400px; background-position: top">
+                        <div class="bg-holder rounded-ts-lg rounded-lg-bs-lg rounded-te-lg rounded-lg-te-0">
+                        <img src="~/img/kc sirr.jpg" alt="Alternate Text" />    
+                        </div>
+                        <!--/.bg-holder-->
+                    </div>
+                    <div class="col-lg-8 px-5 py-6 my-lg-0 bg-white rounded-lg-te-lg rounded-be-lg rounded-bs-lg rounded-lg-bs-0 d-flex align-items-center">
+                        <div data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                            <h5 data-zanim-xs='{"delay":0}'>Message From CEO</h5>
+                            <p class="my-4" data-zanim-xs='{"delay":0.1}'>
+                                The individuals at ASSPL are highly talented and
+                                experienced, with diverse backgrounds in software
+                                development, quality assurance, human resource
+                                management, information technology, operations and
+                                management.
+                            </p>
+                            <h5 class="text-uppercase mt-3 fw-medium mb-1" data-zanim-xs='{"delay":0.3}'>K.C SAHOO</h5>
+                            <h6 class="text-500 fw-semi-bold" data-zanim-xs='{"delay":0.4}'>Bhubaneswar office</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-6">
+                    <div class="col">
+                        <h3 class="text-center fs-2 fs-md-3">Company Overview</h3>
+                        <hr class="short" data-zanim-xs='{"from":{"opacity":0,"width":0},"to":{"opacity":1,"width":"4.20873rem"},"duration":0.8}' data-zanim-trigger="scroll" />
+                    </div>
+                    <div class="col-12">
+                        <div class="bg-white px-3 mt-6 px-0 py-5 px-lg-5 rounded-3">
+                            <h5>Delivering Software Excellence</h5>
+                            <p class="mt-3">
+                                Based in Bhubaneswar, we stand as a leading force in software development, consulting, and digital marketing, delivering bespoke solutions tailored to meet the diverse needs of businesses. We provide cost-effective, end-to-end services to small and medium businesses (SMBs) as well as large corporations, adopting a value-centric approach to maximize client value irrespective of engagement scale or scope. As a comprehensive IT solutions provider, we address all facets of an enterprise’s technology requirements, encompassing software product development, maintenance, support, quality assurance, testing, and beyond.
+
+                                Our skilled team of developers and consultants collaborates closely with clients to grasp their distinct challenges and goals, crafting personalized solutions that boost growth and efficiency. By harnessing the latest technologies and agile methodologies, we ensure our clients maintain a competitive edge. Our digital marketing strategies are designed to amplify your online visibility and effectively engage your target audience. Committed to innovation and excellence, we deliver scalable, robust, and budget-friendly solutions.
+                            </p>
+                            <blockquote class="blockquote my-5 ms-lg-6" style="max-width: 700px;">
+                                <h5 class="fw-medium ms-3 mb-0">How do we make it happen? By earning trust, stepping up, and mastering the art of progress… …</h5>
+                            </blockquote>
+                            <p class="column-lg-2 dropcap">
+                                Empowered by 21st-century cutting-edge technology, we drive successful digital transformation initiatives, enabling enterprises to innovate, evolve, and foster businesses that deliver sustainable, positive change for clients, employees, and society. With deep technical proficiency, we design, develop, test, integrate, migrate, and sustain applications. As a full-cycle software development firm, we offer digital products—ranging from ERP and CRM applications to custom solutions—that enhance business value and accelerate growth.
+
+                                Our team excels in providing tailored software that seamlessly integrates and performs optimally, utilizing agile practices for flexible, efficient project management that minimizes time-to-market. Through rigorous testing and quality assurance, we ensure the delivery of dependable and high-performing software. We continuously invest in advanced technology and training, keeping our clients at the forefront of a rapidly evolving digital landscape.
+                            </p>
+                        </div>
+                    </div>
+                    <!-- Add the PDF embed here -->
+                    <div class="col-12 mt-5">
+                        <h4 class="text-center">Company Documents</h4>
+                        <div class="pdf-embed">
+                            <iframe src="~/docs/MGT-7A (1).pdf" width="100%" height="600px" type="application/pdf"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- end of .container-->
+        </section><!-- <section> close ============================-->
+        <!-- ============================================-->
+        <!-- ============================================-->
+        <!-- <section> begin ============================-->
+        <section class="bg-primary py-6 text-center text-md-start">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md">
+                        <h4 class="text-white mb-0">If you have any query related investment... <br class="d-md-none" />we are available 24/7</h4>
+                    </div>
+                    <div class="col-md-auto mt-md-0 mt-4"><a class="btn btn-light rounded-pill" href="../contact.html">Contact Us</a></div>
+                </div>
+            </div><!-- end of .container-->
+        </section><!-- <section> close ============================-->
+        <!-- ============================================-->
+        <!-- ============================================-->
+        <!-- <section> begin ============================-->
+    <section class="container my-7">
+        <h3 class="fs-2 fs-md-3 mt-7">Our Team</h3>
+        <hr class="short" />
+
+        <div class="grid mb-7">
+            <div class="card" onclick="highlight(this)">
+                <div class="icon-box"></div>
+                <h4>Python Team</h4>
+                <p>Experts in automation, backend development, and data science using robust Python frameworks.</p>
+            </div>
+            <div class="card" onclick="highlight(this)">
+                <div class="icon-box"></div>
+                <h4>React Team</h4>
+                <p>Frontend specialists delivering responsive and performant UI using React and modern JavaScript libraries.</p>
+            </div>
+            <div class="card" onclick="highlight(this)">
+                <div class="icon-box"></div>
+                <h4>Salesforce Team</h4>
+                <p>Certified Salesforce developers and consultants delivering CRM-based solutions with high scalability.</p>
+            </div>
+            <div class="card" onclick="highlight(this)">
+                <div class="icon-box"></div>
+                <h4>.NET Team</h4>
+                <p>Building secure and scalable enterprise-grade applications using .NET and Azure ecosystem.</p>
+            </div>
+            <div class="card" onclick="highlight(this)">
+                <div class="icon-box"></div>
+                <h4>Testing Team</h4>
+                <p>Focused on quality assurance through manual, automated, performance, and regression testing.</p>
+            </div>
+            <div class="card" onclick="highlight(this)">
+                <div class="icon-box"></div>
+                <h4>Digital Marketing Team</h4>
+                <p>Driving brand success with SEO, content marketing, PPC ads, and impactful social media strategies.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- <section> close ============================-->
+        <!-- ============================================-->
+    <script>
+        function highlight(element) {
+            const cards = document.querySelectorAll(".card");
+            cards.forEach(card => card.classList.remove("active"));
+            element.classList.add("active");
+        }
+    </script>
+
+    </main><!-- ===============================================-->
+    <!--    End of Main Content-->

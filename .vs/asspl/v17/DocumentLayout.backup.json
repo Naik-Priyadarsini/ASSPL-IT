@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\kruti\\ASSPL 040725\\asspl\\asspl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8011FE5F-A408-4A4D-ADCD-B941C1D44C19}|asspl\\asspl.csproj|c:\\users\\dell\\documents\\kruti\\asspl 040725\\asspl\\asspl\\asspl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8011FE5F-A408-4A4D-ADCD-B941C1D44C19}|asspl\\asspl.csproj|solutionrelative:asspl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011FE5F-A408-4A4D-ADCD-B941C1D44C19}|asspl\\asspl.csproj|c:\\users\\dell\\documents\\kruti\\asspl 040725\\asspl\\asspl\\asspl\\views\\services\\enterprisesolutions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8011FE5F-A408-4A4D-ADCD-B941C1D44C19}|asspl\\asspl.csproj|solutionrelative:asspl\\views\\services\\enterprisesolutions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011FE5F-A408-4A4D-ADCD-B941C1D44C19}|asspl\\asspl.csproj|c:\\users\\dell\\documents\\kruti\\asspl 040725\\asspl\\asspl\\asspl\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8011FE5F-A408-4A4D-ADCD-B941C1D44C19}|asspl\\asspl.csproj|solutionrelative:asspl\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011FE5F-A408-4A4D-ADCD-B941C1D44C19}|asspl\\asspl.csproj|c:\\users\\dell\\documents\\kruti\\asspl 040725\\asspl\\asspl\\asspl\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8011FE5F-A408-4A4D-ADCD-B941C1D44C19}|asspl\\asspl.csproj|solutionrelative:asspl\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011FE5F-A408-4A4D-ADCD-B941C1D44C19}|asspl\\asspl.csproj|c:\\users\\dell\\documents\\kruti\\asspl 040725\\asspl\\asspl\\asspl\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8011FE5F-A408-4A4D-ADCD-B941C1D44C19}|asspl\\asspl.csproj|solutionrelative:asspl\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011FE5F-A408-4A4D-ADCD-B941C1D44C19}|asspl\\asspl.csproj|c:\\users\\dell\\documents\\kruti\\asspl 040725\\asspl\\asspl\\asspl\\views\\services\\mobileapps.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8011FE5F-A408-4A4D-ADCD-B941C1D44C19}|asspl\\asspl.csproj|solutionrelative:asspl\\views\\services\\mobileapps.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011FE5F-A408-4A4D-ADCD-B941C1D44C19}|asspl\\asspl.csproj|c:\\users\\dell\\documents\\kruti\\asspl 040725\\asspl\\asspl\\asspl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8011FE5F-A408-4A4D-ADCD-B941C1D44C19}|asspl\\asspl.csproj|solutionrelative:asspl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011FE5F-A408-4A4D-ADCD-B941C1D44C19}|asspl\\asspl.csproj|c:\\users\\dell\\documents\\kruti\\asspl 040725\\asspl\\asspl\\asspl\\views\\services\\webdevelopment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8011FE5F-A408-4A4D-ADCD-B941C1D44C19}|asspl\\asspl.csproj|solutionrelative:asspl\\views\\services\\webdevelopment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011FE5F-A408-4A4D-ADCD-B941C1D44C19}|asspl\\asspl.csproj|c:\\users\\dell\\documents\\kruti\\asspl 040725\\asspl\\asspl\\asspl\\controllers\\digimarkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8011FE5F-A408-4A4D-ADCD-B941C1D44C19}|asspl\\asspl.csproj|solutionrelative:asspl\\controllers\\digimarkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\kruti\\ASSPL 040725\\asspl\\asspl\\asspl\\Views\\Services\\Index.cshtml",
+              "RelativeDocumentMoniker": "asspl\\Views\\Services\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\kruti\\ASSPL 040725\\asspl\\asspl\\asspl\\Views\\Services\\Index.cshtml",
+              "RelativeToolTip": "asspl\\Views\\Services\\Index.cshtml",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAYwPYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T10:36:26.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\kruti\\ASSPL 040725\\asspl\\asspl\\asspl\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "asspl\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\kruti\\ASSPL 040725\\asspl\\asspl\\asspl\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "asspl\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:35:26.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnterpriseSolutions.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\kruti\\ASSPL 040725\\asspl\\asspl\\asspl\\Views\\Services\\EnterpriseSolutions.cshtml",
+              "RelativeDocumentMoniker": "asspl\\Views\\Services\\EnterpriseSolutions.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\kruti\\ASSPL 040725\\asspl\\asspl\\asspl\\Views\\Services\\EnterpriseSolutions.cshtml",
+              "RelativeToolTip": "asspl\\Views\\Services\\EnterpriseSolutions.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T10:34:55.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MobileApps.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\kruti\\ASSPL 040725\\asspl\\asspl\\asspl\\Views\\Services\\MobileApps.cshtml",
+              "RelativeDocumentMoniker": "asspl\\Views\\Services\\MobileApps.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\kruti\\ASSPL 040725\\asspl\\asspl\\asspl\\Views\\Services\\MobileApps.cshtml",
+              "RelativeToolTip": "asspl\\Views\\Services\\MobileApps.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T10:34:06.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebDevelopment.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\kruti\\ASSPL 040725\\asspl\\asspl\\asspl\\Views\\Services\\WebDevelopment.cshtml",
+              "RelativeDocumentMoniker": "asspl\\Views\\Services\\WebDevelopment.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\kruti\\ASSPL 040725\\asspl\\asspl\\asspl\\Views\\Services\\WebDevelopment.cshtml",
+              "RelativeToolTip": "asspl\\Views\\Services\\WebDevelopment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T10:33:18.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\kruti\\ASSPL 040725\\asspl\\asspl\\asspl\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "asspl\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\kruti\\ASSPL 040725\\asspl\\asspl\\asspl\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "asspl\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAJYBAAAAAAAAAAAYwDMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T06:55:39.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\kruti\\ASSPL 040725\\asspl\\asspl\\asspl\\Program.cs",
+              "RelativeDocumentMoniker": "asspl\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\kruti\\ASSPL 040725\\asspl\\asspl\\asspl\\Program.cs",
+              "RelativeToolTip": "asspl\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:39:16.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\kruti\\ASSPL 040725\\asspl\\asspl\\asspl\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "asspl\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\kruti\\ASSPL 040725\\asspl\\asspl\\asspl\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "asspl\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAAAAMBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T06:27:31.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DigiMarkController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\kruti\\ASSPL 040725\\asspl\\asspl\\asspl\\Controllers\\DigiMarkController.cs",
+              "RelativeDocumentMoniker": "asspl\\Controllers\\DigiMarkController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\kruti\\ASSPL 040725\\asspl\\asspl\\asspl\\Controllers\\DigiMarkController.cs",
+              "RelativeToolTip": "asspl\\Controllers\\DigiMarkController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:15:57.748Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

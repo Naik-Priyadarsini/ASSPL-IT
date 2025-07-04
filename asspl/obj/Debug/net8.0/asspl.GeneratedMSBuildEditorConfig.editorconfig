@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = asspl
+build_property.RootNamespace = asspl
+build_property.ProjectDir = C:\Users\DELL\Documents\kruti\ASSPL 040725\asspl\asspl\asspl\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\DELL\Documents\kruti\ASSPL 040725\asspl\asspl\asspl
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/aidevelopment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWlkZXZlbG9wbWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/Career/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZWVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/Client/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/DigiMark/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlnaU1hcmtcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/MobileDev/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9iaWxlRGV2XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/Portfolio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/SalesforceService/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNmb3JjZVNlcnZpY2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/Services/EnterpriseSolutions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcRW50ZXJwcmlzZVNvbHV0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/Services/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/Services/MobileApps.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcTW9iaWxlQXBwcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/Services/WebDevelopment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcV2ViRGV2ZWxvcG1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/UIUXDev/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlVWERldlxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/WebDev/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViRGV2XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Documents/kruti/ASSPL 040725/asspl/asspl/asspl/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hty7rurfdq

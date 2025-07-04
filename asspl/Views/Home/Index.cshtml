@@ -1,0 +1,638 @@
+﻿@{
+ViewData["Title"] = "home";
+}
+<style>
+    .card-img-top {
+        width: 100%;
+        height: 320px;
+        object-fit: cover;
+        object-position: center;
+    }
+        body
+
+    {
+        margin: 0;
+        font-family: "Segoe UI", sans-serif;
+        background-color: #f9f9f9;
+    }
+
+    .container {
+        max-width: 1200px;
+        margin: 0px auto;
+        padding: 0 15px;
+    }
+
+    h3 {
+        text-align: center;
+        font-size: 2rem;
+        margin-bottom: 20px;
+    }
+
+    .short {
+        width: 60px;
+        border: 2px solid red;
+        margin: 10px auto 40px;
+    }
+
+    .grid {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .card {
+        background-color: white;
+        border-radius: 8px;
+        box-shadow: 0 0 15px rgba(0,0,0,0.1);
+        padding: 30px;
+        width: 350px;
+        position: relative;
+        transition: all 0.3s ease;
+        cursor: pointer;
+    }
+
+        .card::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 100%;
+            width: 100%;
+            background: linear-gradient(to right, #fca311, #fcd34d);
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            z-index: 0;
+        }
+
+        .card.active {
+            background: linear-gradient(to right, #fca311, #fcd34d);
+            color: white;
+        }
+        .card.active::before {
+            opacity: 0.9;
+        }
+
+        .card * {
+            position: relative;
+            z-index: 1;
+        }
+
+        .card h4 {
+            font-size: 1.25rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .card p {
+            font-size: 0.95rem;
+            color: #555;
+        }
+
+    /* .icon-box {
+        height: 20px;
+        width: 20px;
+        border: 2px solid red;
+        margin-bottom: 20px;
+    } */
+
+    .card.active h4,
+    .card.active p {
+        color: white;
+    }
+
+    .spaced-section {
+        margin-top: 100px; /* space above */
+        margin-bottom: 100px; /* space after */
+    }
+
+    .spaced-heading {
+        margin-top: 80px; /* extra space above heading */
+    }
+
+</style>
+<!-- ===============================================-->
+<!--    Main Content-->
+<!-- ===============================================-->
+<section class="py-0">
+    <div class="position-relative" data-swiper='{"loop":true,"allowTouchMove":false,"autoplay":{"delay":5000}}'>
+        <div class="swiper-slide" data-zanim-timeline="{}">
+            <!-- Container for text and image -->
+            <div class="container position-relative z-index-1">
+                <div class="row py-8 py-mobile-4 align-items-center" data-inertia='{"weight":1.5}'>
+                    <div class="col-12 col-sm-8 col-lg-7 px-5 px-sm-3">
+                        <div class="overflow-hidden">
+                            <h1 class="fs-4 fs-md-5 lh-1 text-primary" data-zanim-xs='{"delay":0}'>Empowering Innovation</h1>
+                        </div>
+                        <div class="overflow-hidden">
+                            <p class="pt-4 mb-5 fs-1 fs-md-2 lh-xs" data-zanim-xs='{"delay":0.1}'>Abacus System is here to elevate your business with cutting-edge software solutions.</p>
+                        </div>
+                        <div class="overflow-hidden">
+                            <div data-zanim-xs='{"delay":0.2}'>
+                                <a class="btn btn-primary me-3 mt-3" asp-controller="About" asp-action="Index">Read more<span class="fas fa-chevron-right ms-2"></span></a>
+                                <a class="btn btn-primary mt-3" asp-controller="Contact" asp-action="Index">Contact us<span class="fas fa-chevron-right ms-2"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Image container -->
+            <div class="header-image position-absolute top-0 left-0 w-100 h-100">
+                <img src="~/img/header-6.jpg" alt="Empowering Innovation" class="img-fluid w-100 h-100 object-fit-cover" />
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Second Section -->
+<section class="bg-white text-center">
+    <div class="container">
+        <div class="row justify-content-center text-center">
+            <div class="col-10 col-md-6">
+                <h3 class="fs-2 fs-lg-3">Welcome to Abacus System</h3>
+                <p class="px-lg-4 mt-3">Discover tailored software solutions with Abacus System, your trusted partner in technology.</p>
+                <hr class="short" data-zanim-xs='{"from":{"opacity":0,"width":0},"to":{"opacity":1,"width":"4.20873rem"},"duration":0.8}' data-zanim-trigger="scroll" />
+            </div>
+        </div>
+        <div class="row mt-4 mt-md-5 mt-mobile-1">
+            <div class="col-sm-6 col-lg-3 mt-4" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <div class="ring-icon mx-auto" data-zanim-xs='{"delay":0}'><span class="far fa-chart-bar"></span></div>
+                <h5 class="mt-4" data-zanim-xs='{"delay":0.1}'>Custom Software</h5>
+                <p class="mb-0 mt-3 px-3" data-zanim-xs='{"delay":0.2}'>Bespoke applications designed to meet your unique business needs.</p>
+            </div>
+            <div class="col-sm-6 col-lg-3 mt-4" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <div class="ring-icon mx-auto" data-zanim-xs='{"delay":0}'><span class="far fa-bell"></span></div>
+                <h5 class="mt-4" data-zanim-xs='{"delay":0.1}'>System Integration</h5>
+                <p class="mb-0 mt-3 px-3" data-zanim-xs='{"delay":0.2}'>Seamlessly connect your systems for enhanced efficiency.</p>
+            </div>
+            <div class="col-sm-6 col-lg-3 mt-4" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <div class="ring-icon mx-auto" data-zanim-xs='{"delay":0}'><span class="far fa-lightbulb"></span></div>
+                <h5 class="mt-4" data-zanim-xs='{"delay":0.1}'>Cloud Solutions</h5>
+                <p class="mb-0 mt-3 px-3" data-zanim-xs='{"delay":0.2}'>Scalable and secure cloud-based software for modern businesses.</p>
+            </div>
+            <div class="col-sm-6 col-lg-3 mt-4" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <div class="ring-icon mx-auto" data-zanim-xs='{"delay":0}'><span class="fas fa-headset"></span></div>
+                <h5 class="mt-4" data-zanim-xs='{"delay":0.1}'>Tech Support</h5>
+                <p class="mb-0 mt-3 px-3" data-zanim-xs='{"delay":0.2}'>Reliable assistance from development to deployment.</p>
+            </div>
+        </div>
+    </div><!-- end of .container-->
+</section><!-- <section> close ============================-->
+<!-- ============================================-->
+<!-- ============================================-->
+<!-- <section> begin ============================-->
+<section class="bg-100">
+    <div class="container">
+        <div class="text-center mb-6">
+            <h3 class="fs-2 fs-md-3">Our Services</h3>
+            <hr class="short" data-zanim-xs='{"from":{"opacity":0,"width":0},"to":{"opacity":1,"width":"4.20873rem"},"duration":0.8}' data-zanim-trigger="scroll" />
+        </div>
+        <div class="row g-0 position-relative mb-4 mb-lg-0">
+            <div class="col-lg-6 py-3 py-lg-0 mb-0 position-relative" style="min-height:400px;">
+                <div class="bg-holder" style="position: relative; overflow: hidden;">
+                    <img src="~/img/6.jpg" alt="Web Development" style="width: 100%; height: 400px; object-fit: cover; border-radius: 0.625rem 0.625rem 0 0;" />
+                </div>
+                <!--/.bg-holder-->
+            </div>
+            <div class="col-lg-6 px-lg-5 py-lg-6 p-4 my-lg-0 bg-white rounded-bs-lg rounded-lg-bs-0 rounded-be-lg rounded-lg-be-0 rounded-lg-te-lg">
+                <div class="elixir-caret d-none d-lg-block"></div>
+                <div class="d-flex align-items-center h-100">
+                    <div data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                        @* <div class="overflow-hidden">
+                            <h5 data-zanim-xs='{"delay":0}' style="color: #dc3545;">Web Development</h5>
+                        </div>
+                        <div class="overflow-hidden">
+                            <p class="mt-3" data-zanim-xs='{"delay":0.1}'>Abacus System builds responsive, high-performance web applications to drive your digital presence.</p>
+                        </div>
+                        <div class="overflow-hidden">
+                            <div data-zanim-xs='{"delay":0.2}'><a class="d-flex align-items-center" href="#!" style="color: #dc3545;">Learn More<div class="overflow-hidden ms-2"><span class="d-inline-block" data-zanim-xs='{"from":{"opacity":0,"x":-30},"to":{"opacity":1,"x":0},"delay":0.8}'>⟶</span></div></a></div>
+                        </div> *@
+                        <div class="overflow-hidden">
+                            <h5 data-zanim-xs='{"delay":0}' style="color: #dc3545;">Web Development</h5>
+                        </div>
+                        <div class="overflow-hidden">
+                            <p class="mt-3" data-zanim-xs='{"delay":0.1}'>Abacus System builds responsive, high-performance web applications to drive your digital presence.</p>
+                        </div>
+                        <div class="overflow-hidden">
+                            <div data-zanim-xs='{"delay":0.2}'>
+                                <a asp-controller="Services" asp-action="WebDevelopment" class="d-flex align-items-center text-danger">
+                                    Learn More
+                                    <div class="overflow-hidden ms-2">
+                                        <span class="d-inline-block" data-zanim-xs='{"from":{"opacity":0,"x":-30},"to":{"opacity":1,"x":0},"delay":0.8}'>⟶</span>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row g-0 position-relative mb-4 mb-lg-0">
+            <div class="col-lg-6 py-3 py-lg-0 mb-0 position-relative order-lg-2" style="min-height:400px;">
+                <div class="bg-holder" style="position: relative; overflow: hidden;">
+                    <img src="~/img/7.jpg" alt="Mobile Apps" style="width: 100%; height: 400px; object-fit: cover; border-radius: 0.625rem 0.625rem 0 0;" />
+                </div>
+                <!--/.bg-holder-->
+            </div>
+            <div class="col-lg-6 px-lg-5 py-lg-6 p-4 my-lg-0 bg-white rounded-bs-lg rounded-lg-bs-0 rounded-be-lg rounded-lg-be-0">
+                <div class="elixir-caret d-none d-lg-block"></div>
+                <div class="d-flex align-items-center h-100">
+                    <div data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                        @* <div class="overflow-hidden">
+                            <h5 data-zanim-xs='{"delay":0}' style="color: #dc3545;">Mobile Apps</h5>
+                        </div>
+                        <div class="overflow-hidden">
+                            <p class="mt-3" data-zanim-xs='{"delay":0.1}'>From iOS to Android, we create intuitive and powerful mobile applications for your users.</p>
+                        </div>
+                        <div class="overflow-hidden">
+                            <div data-zanim-xs='{"delay":0.2}'><a class="d-flex align-items-center" href="#!" style="color: #dc3545;">Learn More<div class="overflow-hidden ms-2"><span class="d-inline-block" data-zanim-xs='{"from":{"opacity":0,"x":-30},"to":{"opacity":1,"x":0},"delay":0.8}'>⟶</span></div></a></div>
+                        </div> *@
+                        <div class="overflow-hidden">
+                            <h5 data-zanim-xs='{"delay":0}' style="color: #dc3545;">Mobile Apps</h5>
+                        </div>
+                        <div class="overflow-hidden">
+                            <p class="mt-3" data-zanim-xs='{"delay":0.1}'>From iOS to Android, we create intuitive and powerful mobile applications for your users.</p>
+                        </div>
+                        <div class="overflow-hidden">
+                            <div data-zanim-xs='{"delay":0.2}'>
+                                <a asp-controller="Services" asp-action="MobileApps" class="d-flex align-items-center text-danger">
+                                    Learn More
+                                    <div class="overflow-hidden ms-2">
+                                        <span class="d-inline-block" data-zanim-xs='{"from":{"opacity":0,"x":-30},"to":{"opacity":1,"x":0},"delay":0.8}'>⟶</span>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row g-0 position-relative mb-4 mb-lg-0">
+            <div class="col-lg-6 py-3 py-lg-0 mb-0 position-relative" style="min-height:400px;">
+                <div class="bg-holder" style="position: relative; overflow: hidden;">
+                    <img src="~/img/8.jpg" alt="Enterprise Solutions" style="width: 100%; height: 400px; object-fit: cover; border-radius: 0.625rem 0.625rem 0 0;" />
+                </div>
+                <!--/.bg-holder-->
+            </div>
+            <div class="col-lg-6 px-lg-5 py-lg-6 p-4 my-lg-0 bg-white rounded-bs-lg rounded-lg-bs-0 rounded-be-lg">
+                <div class="elixir-caret d-none d-lg-block"></div>
+                <div class="d-flex align-items-center h-100">
+                    <div data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                        @* <div class="overflow-hidden">
+                            <h5 data-zanim-xs='{"delay":0}' style="color: #dc3545;">Enterprise Solutions</h5>
+                        </div>
+                        <div class="overflow-hidden">
+                            <p class="mt-3" data-zanim-xs='{"delay":0.1}'>Scalable software to streamline operations and boost productivity for large organizations.</p>
+                        </div>
+                        <div class="overflow-hidden">
+                            <div data-zanim-xs='{"delay":0.2}'><a class="d-flex align-items-center" href="#!" style="color: #dc3545;">Learn More<div class="overflow-hidden ms-2"><span class="d-inline-block" data-zanim-xs='{"from":{"opacity":0,"x":-30},"to":{"opacity":1,"x":0},"delay":0.8}'>⟶</span></div></a></div>
+                        </div> *@
+                        <div class="overflow-hidden">
+                            <h5 data-zanim-xs='{"delay":0}' style="color: #dc3545;">Enterprise Solutions</h5>
+                        </div>
+                        <div class="overflow-hidden">
+                            <p class="mt-3" data-zanim-xs='{"delay":0.1}'>Scalable software to streamline operations and boost productivity for large organizations.</p>
+                        </div>
+                        <div class="overflow-hidden">
+                            <div data-zanim-xs='{"delay":0.2}'>
+                                <a asp-controller="Services" asp-action="EnterpriseSolutions" class="d-flex align-items-center text-danger">
+                                    Learn More
+                                    <div class="overflow-hidden ms-2">
+                                        <span class="d-inline-block" data-zanim-xs='{"from":{"opacity":0,"x":-30},"to":{"opacity":1,"x":0},"delay":0.8}'>⟶</span>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+       @*  <div class="row mt-7">
+            <div class="col-sm-6 col-lg-4 px-4 px-sm-3 mb-4 mb-lg-0" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <h5 data-zanim-xs='{"delay":0}'><span class="text-primary fs-0 me-3 far fa-credit-card"></span>Cost-Effective Plans</h5>
+                <p class="mt-3 pe-3 pe-lg-5 mb-0" data-zanim-xs='{"delay":0.1}'>Flexible pricing to suit your budget and project needs.</p>
+            </div>
+            <div class="col-sm-6 col-lg-4 px-4 px-sm-3 mb-4 mb-lg-0" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <h5 data-zanim-xs='{"delay":0}'><span class="text-primary fs-0 me-3 fas fa-comment-alt"></span>Live Chat</h5>
+                <p class="mt-3 pe-3 pe-lg-5 mb-0" data-zanim-xs='{"delay":0.1}'>Need assistance? Chat with our experts online. <a href='#!'>Start chatting <span class='fas fa-external-link-alt ms-1'></span></a></p>
+            </div>
+            <div class="col-sm-6 col-lg-4 px-4 px-sm-3 mb-4 mb-lg-0" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <h5 data-zanim-xs='{"delay":0}'><span class="text-primary fs-0 me-3 fas fa-phone-alt"></span>Support Hotline</h5>
+                <p class="mt-3 pe-3 pe-lg-5 mb-0" data-zanim-xs='{"delay":0.1}'>Our 24/7 team is ready at 1-800-ABACUS.</p>
+            </div>
+        </div>
+    </div> *@<!-- end of .container-->
+</section><!-- <section> close ============================-->
+<!-- ============================================-->
+
+<section class="p-4" style="background-color:#d71700; color:#fff">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 col-lg-4 mt-3 mt-lg-0 px-4 px-sm-3" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <h5 data-zanim-xs='{"delay":0}' style="color:#fff"><span class=" me-3 fas fa-users" style="color:#fff"></span>Skilled Developers</h5>
+                <p class="mt-3 pe-3 pe-lg-5" data-zanim-xs='{"delay":0.1}'>Our team dives deep into your requirements to craft the perfect software.</p>
+            </div>
+            <div class="col-sm-6 col-lg-4 mt-3 mt-lg-0 px-4 px-sm-3" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <h5 data-zanim-xs='{"delay":0}' style="color:#fff"><span class=" me-3 fas fa-comments" style="color:#fff"></span>Reliable Support</h5>
+                <p class="mt-3 pe-3 pe-lg-5" data-zanim-xs='{"delay":0.1}'>Got a question? Our support team is available 24/7 to assist you.</p>
+            </div>
+            <div class="col-sm-6 col-lg-4 mt-3 mt-lg-0 px-4 px-sm-3" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <h5 data-zanim-xs='{"delay":0}' style="color:#fff"><span class=" me-3 fas fa-bolt" style="color:#fff"></span>Fast Delivery</h5>
+                <p class="mt-3 pe-3 pe-lg-5" data-zanim-xs='{"delay":0.1}'>Agile processes ensure quick and efficient software deployment.</p>
+            </div>
+        </div>
+    </div><!-- end of .container-->
+</section>
+<!-- ============================================-->
+<!-- <section> begin ============================-->
+<section>
+    <div class="container">
+        <div class="text-center mb-7">
+            <h3 class="fs-2 fs-md-3">Why Choose Abacus System</h3>
+            <hr class="short" data-zanim-xs='{"from":{"opacity":0,"width":0},"to":{"opacity":1,"width":"4.20873rem"},"duration":0.8}' data-zanim-trigger="scroll" />
+        </div>
+        <div class="row">
+            <div class="col-lg-6 pe-lg-3"><img class="rounded-3 img-fluid" src="~/img/why-choose-us.jpg" alt="about" /></div>
+            <div class="col-lg-6 px-lg-5 mt-6 mt-lg-0" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <div class="overflow-hidden">
+                    <div class="px-4 px-sm-0" data-zanim-xs='{"delay":0}'>
+                        <h5 class="fs-0 fs-lg-1"><span class="fas fa-comment-dots fs-1 me-2" data-fa-transform="flip-h"></span>Proven Expertise</h5>
+                        <p class="mt-3">Our developers bring years of experience to deliver reliable and innovative software.</p>
+                    </div>
+                </div>
+                <div class="overflow-hidden">
+                    <div class="px-4 px-sm-0 mt-5" data-zanim-xs='{"delay":0}'>
+                        <h5 class="fs-0 fs-lg-1"><span class="fas fa-palette fs-1 me-2" data-fa-transform="shrink-1"></span>Creative Solutions</h5>
+                        <p class="mt-3">We design software that’s not just functional but also forward-thinking and user-friendly.</p>
+                    </div>
+                </div>
+                <div class="overflow-hidden">
+                    <div class="px-4 px-sm-0 mt-5" data-zanim-xs='{"delay":0}'>
+                        <h5 class="fs-0 fs-lg-1"><span class="fas fa-stopwatch fs-1 me-2" data-fa-transform="grow-1"></span>24/7 Support</h5>
+                        <p class="mt-3">Abacus System ensures your software runs smoothly with round-the-clock assistance.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!-- end of .container-->
+</section><!-- <section> close ============================-->
+<!-- ============================================-->
+<!-- ============================================-->
+<!-- <section> begin ============================-->
+<section class="bg-primary py-6 text-center text-md-start">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md">
+                <h4 class="text-white mb-0">Have a question about our software solutions? <br class="d-md-none" />We’re available 24/7</h4>
+            </div>
+           @*  <div class="col-md-auto mt-md-0 mt-4"><a class="btn btn-light rounded-pill" href="">Contact Us</a></div>
+        </div> *@
+            <div class="col-md-auto mt-md-0 mt-4">
+                <a class="btn btn-light rounded-pill" asp-controller="Contact" asp-action="Index">Contact Us</a>
+            </div>
+    </div><!-- end of .container-->
+</section><!-- <section> close ============================-->
+<!-- ============================================-->
+<!-- ============================================-->
+<!-- <section> begin ============================-->
+<section class="text-center">
+    <div class="container">
+        <div class="text-center">
+            <h3 class="fs-2 fs-md-3">Things You Get</h3>
+            <hr class="short" data-zanim-xs='{"from":{"opacity":0,"width":0},"to":{"opacity":1,"width":"4.20873rem"},"duration":0.8}' data-zanim-trigger="scroll" />
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-lg-4 mt-4" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <div class="px-3 py-4 px-lg-4">
+                    <div class="overflow-hidden"><img src="~/img/icons/sharing.png" alt="icon" height="37" data-zanim-xs='{"delay":0}' /></div>
+                    <div class="overflow-hidden">
+                        <h5 class="mt-3" data-zanim-xs='{"delay":0.1}'>Scalable Software</h5>
+                    </div>
+                    <div class="overflow-hidden">
+                        <p class="mb-0" data-zanim-xs='{"delay":0.2}'>Solutions that grow with your business, ensuring long-term success.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mt-4" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <div class="px-3 py-4 px-lg-4">
+                    <div class="overflow-hidden"><img src="~/img/icons/mail.png" alt="icon" height="37" data-zanim-xs='{"delay":0}' /></div>
+                    <div class="overflow-hidden">
+                        <h5 class="mt-3" data-zanim-xs='{"delay":0.1}'>User-Centric Design</h5>
+                    </div>
+                    <div class="overflow-hidden">
+                        <p class="mb-0" data-zanim-xs='{"delay":0.2}'>Intuitive interfaces built to enhance user experience across platforms.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mt-4" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <div class="px-3 py-4 px-lg-4">
+                    <div class="overflow-hidden"><img src="~/img/icons/target.png" alt="icon" height="37" data-zanim-xs='{"delay":0}' /></div>
+                    <div class="overflow-hidden">
+                        <h5 class="mt-3" data-zanim-xs='{"delay":0.1}'>Tech Consulting</h5>
+                    </div>
+                    <div class="overflow-hidden">
+                        <p class="mb-0" data-zanim-xs='{"delay":0.2}'>Expert guidance to align technology with your business goals.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mt-4" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <div class="px-3 py-4 px-lg-4">
+                    <div class="overflow-hidden"><img src="~/img/icons/world-globe.png" alt="icon" height="37" data-zanim-xs='{"delay":0}' /></div>
+                    <div class="overflow-hidden">
+                        <h5 class="mt-3" data-zanim-xs='{"delay":0.1}'>Global Reach</h5>
+                    </div>
+                    <div class="overflow-hidden">
+                        <p class="mb-0" data-zanim-xs='{"delay":0.2}'>Software solutions designed for businesses worldwide.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mt-4" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <div class="px-3 py-4 px-lg-4">
+                    <div class="overflow-hidden"><img src="~/img/icons/money.png" alt="icon" height="37" data-zanim-xs='{"delay":0}' /></div>
+                    <div class="overflow-hidden">
+                        <h5 class="mt-3" data-zanim-xs='{"delay":0.1}'>Cost Efficiency</h5>
+                    </div>
+                    <div class="overflow-hidden">
+                        <p class="mb-0" data-zanim-xs='{"delay":0.2}'>High-quality software at competitive prices to maximize ROI.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mt-4" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <div class="px-3 py-4 px-lg-4">
+                    <div class="overflow-hidden"><img src="~/img/icons/data-analytics.png" alt="icon" height="37" data-zanim-xs='{"delay":0}' /></div>
+                    <div class="overflow-hidden">
+                        <h5 class="mt-3" data-zanim-xs='{"delay":0.1}'>Data Insights</h5>
+                    </div>
+                    <div class="overflow-hidden">
+                        <p class="mb-0" data-zanim-xs='{"delay":0.2}'>Leverage analytics to make informed decisions with our software.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!-- end of .container-->
+</section><!-- <section> close ============================-->
+<!-- ============================================-->
+<!-- ============================================-->
+<!-- <section> begin ============================-->
+<section class="bg-primary">
+    <div class="container">
+        <div class="row align-items-center text-white">
+            <div class="col-lg-4">
+                <div class="border border-2 border-warning p-4 py-lg-5 text-center rounded-3" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                    <div class="overflow-hidden">
+                        <h4 class="text-white" data-zanim-xs='{"delay":0}'>Request a Callback</h4>
+                    </div>
+                    <div class="overflow-hidden">
+                        <p class="px-lg-1 text-100 mb-0" data-zanim-xs='{"delay":0.1}'>Want to discuss your software needs? Submit your details, and we’ll reach out soon. Email us if you prefer!</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-8 ps-lg-5 mt-6 mt-lg-0">
+                <h5 class="text-white">I would like to discuss:</h5>
+               @*  <form class="mt-4" method="post">
+                    <div class="row">
+                        <div class="col-6"><input class="form-control" type="hidden" name="to" value="username@domain.extension" /><input class="form-control fw-semi-bold" type="text" placeholder="Your Name" aria-label="Your Name" /></div>
+                        <div class="col-6"><input class="form-control fw-semi-bold" type="text" placeholder="Phone Number" aria-label="Phone Number" /></div>
+                        <div class="col-6 mt-4"><input class="form-control fw-semi-bold" type="text" placeholder="Subject" aria-label="Subject" /></div>
+                        <div class="col-6 mt-4"><button class="btn btn-submit w-100 fw-bold" type="submit">Submit</button></div>
+                    </div>
+                </form> *@
+                <form method="post" action="/Contact/Index">
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <input type="text" name="Name" class="form-control" placeholder="Your Name" required />
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <input type="tel" name="Phone" class="form-control" placeholder="Phone Number" required />
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <input type="text" name="Subject" class="form-control" placeholder="Subject" required />
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <button type="submit" class="btn btn-danger w-100">Submit</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div><!-- end of .container-->
+</section><!-- <section> close ============================-->
+<!-- ============================================-->
+<!-- ============================================-->
+<!-- <section> begin ============================-->
+<section class="container my-7">
+    <h3 class="fs-2 fs-md-3 mt-7">Our Team</h3>
+    <hr class="short" />
+
+    <div class="grid mb-7">
+        <div class="card" onclick="highlight(this)">
+            <div class="icon-box"></div>
+            <h4>Python Team</h4>
+            <p>Experts in automation, backend development, and data science using robust Python frameworks.</p>
+        </div>
+        <div class="card" onclick="highlight(this)">
+            <div class="icon-box"></div>
+            <h4>React Team</h4>
+            <p>Frontend specialists delivering responsive and performant UI using React and modern JavaScript libraries.</p>
+        </div>
+        <div class="card" onclick="highlight(this)">
+            <div class="icon-box"></div>
+            <h4>Salesforce Team</h4>
+            <p>Certified Salesforce developers and consultants delivering CRM-based solutions with high scalability.</p>
+        </div>
+        <div class="card" onclick="highlight(this)">
+            <div class="icon-box"></div>
+            <h4>.NET Team</h4>
+            <p>Building secure and scalable enterprise-grade applications using .NET and Azure ecosystem.</p>
+        </div>
+        <div class="card" onclick="highlight(this)">
+            <div class="icon-box"></div>
+            <h4>Testing Team</h4>
+            <p>Focused on quality assurance through manual, automated, performance, and regression testing.</p>
+        </div>
+        <div class="card" onclick="highlight(this)">
+            <div class="icon-box"></div>
+            <h4>Digital Marketing Team</h4>
+            <p>Driving brand success with SEO, content marketing, PPC ads, and impactful social media strategies.</p>
+        </div>
+    </div>
+</section>
+
+
+
+<script>
+    function highlight(element) {
+        const cards = document.querySelectorAll(".card");
+        cards.forEach(card => card.classList.remove("active"));
+        element.classList.add("active");
+    }
+</script>
+
+<div class="bg-200 py-6">
+    <div class="container">
+        <div class="row align-items-center" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+            <div class="col-4 col-md-2 my-3 overflow-hidden"><img class="img-fluid" src="~/img/partner/planitrentalsLogo.jpg" alt="partnerco" data-zanim-xs="{}" /></div>
+            <div class="col-4 col-md-2 my-3 overflow-hidden"><img class="img-fluid" src="~/img/partner/roofconnect.png" alt="tvc" data-zanim-xs="{}" /></div>
+            <div class="col-4 col-md-2 my-3 overflow-hidden"><img class="img-fluid" src="~/img/partner/printsome.png" alt="arcade" data-zanim-xs="{}" /></div>
+            <div class="col-4 col-md-2 my-3 overflow-hidden"><img class="img-fluid" src="~/img/partner/logo3.png" alt="bearbrand" data-zanim-xs="{}" /></div>
+            <div class="col-4 col-md-2 my-3 overflow-hidden"><img class="img-fluid" src="~/img/partner/logo1.png" alt="fast brothers" data-zanim-xs="{}" /></div>
+            <div class="col-4 col-md-2 my-3 overflow-hidden"><img class="img-fluid" src="~/img/partner/gfaa.png" alt="harculis beards" data-zanim-xs="{}" /></div>
+        </div>
+    </div>
+</div>
+
+<!-- ============================================-->
+<!-- <section> begin ============================-->
+<section class="bg-100">
+    <div class="container">
+        <div class="text-center mb-6">
+            <h3 class="fs-2 fs-md-3">Projects</h3>
+            <hr class="short" data-zanim-xs='{"from":{"opacity":0,"width":0},"to":{"opacity":1,"width":"4.20873rem"},"duration":0.8}' data-zanim-trigger="scroll" />
+        </div>
+        <div class="row g-4">
+            <div class="col-md-6 col-lg-4">
+                <div class="card">
+                    <a href="news/news.html"><img class="card-img-top" src="~/img/planit.jpg" alt="Featured Image" /></a>
+                    <div class="card-body" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                        <div class="overflow-hidden">
+                            <h5 data-zanim-xs='{"delay":0}'>Plan-it Rentals</h5>
+                        </div>
+                        <div class="overflow-hidden">
+                            <p class="mt-3" data-zanim-xs='{"delay":0.2}'>United State's Largest rental business built with React + Salesforce (Ecommerce)</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="card">
+                    <a href="news/news.html"><img class="card-img-top" src="~/img/10.jpg" alt="Featured Image" /></a>
+                    <div class="card-body" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                        <div class="overflow-hidden">
+                            <h5 data-zanim-xs='{"delay":0}'>BusLyfe</h5>
+                        </div>
+                        <div class="overflow-hidden">
+                            <p class="mt-3" data-zanim-xs='{"delay":0.2}'>Online Bus Ticket Booking website developed using MVC .NET by Abacus System</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="card">
+                    <a href="news/news.html"><img class="card-img-top" src="~/img/roof.webp" alt="Featured Image" /></a>
+                    <div class="card-body" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                        <div class="overflow-hidden">
+                            <h5 data-zanim-xs='{"delay":0}'>RoofConnect</h5>
+                        </div>
+                        <div class="overflow-hidden">
+                            <p class="mt-3" data-zanim-xs='{"delay":0.2}'>Largest national commercial roofing services provider Created with Salesforce.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!-- end of .container-->
+</section><!-- <section> close ============================-->
+<!-- ============================================-->

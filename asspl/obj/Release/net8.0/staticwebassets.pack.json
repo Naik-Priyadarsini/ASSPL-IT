@@ -1,0 +1,1721 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\asspl.bundle.scp.css",
+      "PackagePath": "staticwebassets\\asspl.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\css\\theme.min.css",
+      "PackagePath": "staticwebassets\\css\\theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\docs\\MGT-7A (1).pdf",
+      "PackagePath": "staticwebassets\\docs\\MGT-7A (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\10.jpg",
+      "PackagePath": "staticwebassets\\img\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\11.jpg",
+      "PackagePath": "staticwebassets\\img\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\12.jpg",
+      "PackagePath": "staticwebassets\\img\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\13.jpg",
+      "PackagePath": "staticwebassets\\img\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\14.jpg",
+      "PackagePath": "staticwebassets\\img\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\9.jpg",
+      "PackagePath": "staticwebassets\\img\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\BM1.jpg",
+      "PackagePath": "staticwebassets\\img\\BM1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\BM2.jpg",
+      "PackagePath": "staticwebassets\\img\\BM2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Cloud-Based-Web-App-Development.png",
+      "PackagePath": "staticwebassets\\img\\Cloud-Based-Web-App-Development.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\E-commerce-Web-App-Development.png",
+      "PackagePath": "staticwebassets\\img\\E-commerce-Web-App-Development.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\MVP-Development-Services.png",
+      "PackagePath": "staticwebassets\\img\\MVP-Development-Services.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Our-Process-min-1.png",
+      "PackagePath": "staticwebassets\\img\\Our-Process-min-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\PM2.jpg",
+      "PackagePath": "staticwebassets\\img\\PM2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\10-Web-App-Features-Your-Business-Cant-Afford-to-Skip.jpg",
+      "PackagePath": "staticwebassets\\img\\Services\\10-Web-App-Features-Your-Business-Cant-Afford-to-Skip.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\AI-Chatbot-Development-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\AI-Chatbot-Development-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\AI-Chatbot-Development-Services.png",
+      "PackagePath": "staticwebassets\\img\\Services\\AI-Chatbot-Development-Services.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\AI-Computer-Vision-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\AI-Computer-Vision-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\AI-Computer-Vision-Services.png",
+      "PackagePath": "staticwebassets\\img\\Services\\AI-Computer-Vision-Services.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\AI-Consulting-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\AI-Consulting-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\AI-Consulting-Services.png",
+      "PackagePath": "staticwebassets\\img\\Services\\AI-Consulting-Services.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\AI-NLP-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\AI-NLP-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\AI-NLP-Services.png",
+      "PackagePath": "staticwebassets\\img\\Services\\AI-NLP-Services.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\AI-Powered-RPA-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\AI-Powered-RPA-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\AI-Powered-RPA-Services.png",
+      "PackagePath": "staticwebassets\\img\\Services\\AI-Powered-RPA-Services.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\AI-Powered-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\AI-Powered-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\AI-Powered-Services.png",
+      "PackagePath": "staticwebassets\\img\\Services\\AI-Powered-Services.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\AR-Experience-Design-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\AR-Experience-Design-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\AR-Experience-Design.png",
+      "PackagePath": "staticwebassets\\img\\Services\\AR-Experience-Design.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\AWS-AI.png",
+      "PackagePath": "staticwebassets\\img\\Services\\AWS-AI.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\AWS-Code-Pipeline.png",
+      "PackagePath": "staticwebassets\\img\\Services\\AWS-Code-Pipeline.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\AWS-Security-Groups.png",
+      "PackagePath": "staticwebassets\\img\\Services\\AWS-Security-Groups.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Adobe-App-Builder.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Adobe-App-Builder.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Adobe-Commerce-Development.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Adobe-Commerce-Development.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Agile-Methodologies.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Agile-Methodologies.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Always-Here-for-You.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Always-Here-for-You.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Ansible.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Ansible.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Apex.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Apex.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\AppExchange-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\AppExchange-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\AppExchange-Services.png",
+      "PackagePath": "staticwebassets\\img\\Services\\AppExchange-Services.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Aqua-Security.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Aqua-Security.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Aura.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Aura.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Azure-AI.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Azure-AI.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Azure-Network-Security-Groups.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Azure-Network-Security-Groups.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Azure-Pipelines.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Azure-Pipelines.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Banner-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Banner-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Belle-Medical-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Belle-Medical-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Belle-Medical-2-500x500.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Belle-Medical-2-500x500.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Belle-Medical-2.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Belle-Medical-2.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Bicep.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Bicep.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Bitbucket.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Bitbucket.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Bitrise.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Bitrise.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Brains.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Brains.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Browserstack.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Browserstack.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Built-in-Sydney-Delivered-On-Time.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Built-in-Sydney-Delivered-On-Time.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\CD-Pipeline-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\CD-Pipeline-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\CD-Pipelines.png",
+      "PackagePath": "staticwebassets\\img\\Services\\CD-Pipelines.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Claude.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Claude.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Cloud-Migration-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Cloud-Migration-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Cloud-Providers.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Cloud-Providers.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Cloud-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Cloud-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Cloud-Services.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Cloud-Services.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Cloudflare.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Cloudflare.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Cloudformation.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Cloudformation.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Cloudwatch.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Cloudwatch.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Cloudways.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Cloudways.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Conga.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Conga.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Containerization-and-Orchestration.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Containerization-and-Orchestration.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Continuous-Testing.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Continuous-Testing.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Conversion-Rate-Optimization-CRO-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Conversion-Rate-Optimization-CRO-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Conversion-Rate-Optimization-CRO.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Conversion-Rate-Optimization-CRO.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Copado.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Copado.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Cross-Platform-Mobile-App-Development-Made-Easy-in-Sydney.jpg",
+      "PackagePath": "staticwebassets\\img\\Services\\Cross-Platform-Mobile-App-Development-Made-Easy-in-Sydney.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Custom-Magento-Website-Development-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Custom-Magento-Website-Development-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Custom-Module-Development.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Custom-Module-Development.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Dalle.E2.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Dalle.E2.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Data-Cloud.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Data-Cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\DevOps-Cloud.png",
+      "PackagePath": "staticwebassets\\img\\Services\\DevOps-Cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\DevOps-Consulting-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\DevOps-Consulting-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\DevOps-Containerisation-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\DevOps-Containerisation-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\DevOps-Containerisation-Services.png",
+      "PackagePath": "staticwebassets\\img\\Services\\DevOps-Containerisation-Services.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\DevSecOps-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\DevSecOps-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\DevSecOps-Services.png",
+      "PackagePath": "staticwebassets\\img\\Services\\DevSecOps-Services.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Docker-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Docker-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Docker-Compose.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Docker-Compose.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Docker.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Docker.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Dreamforce.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Dreamforce.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\ECS-Fargate.png",
+      "PackagePath": "staticwebassets\\img\\Services\\ECS-Fargate.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\EKS.png",
+      "PackagePath": "staticwebassets\\img\\Services\\EKS.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\ELK-Stack.png",
+      "PackagePath": "staticwebassets\\img\\Services\\ELK-Stack.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\ERP-integration.png",
+      "PackagePath": "staticwebassets\\img\\Services\\ERP-integration.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\EZ-LIving-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\EZ-LIving-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\EZ-LIving-2-500x500.png",
+      "PackagePath": "staticwebassets\\img\\Services\\EZ-LIving-2-500x500.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\EZ-LIving-2.png",
+      "PackagePath": "staticwebassets\\img\\Services\\EZ-LIving-2.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Einstein-Analytics.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Einstein-Analytics.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Elasticsearch.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Elasticsearch.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Email-Automation-Marketing-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Email-Automation-Marketing-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Email-Automation-Marketing.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Email-Automation-Marketing.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Enhanced-AI-Performance-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Enhanced-AI-Performance-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Enhanced-AI-Performance.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Enhanced-AI-Performance.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Experience-Cloud.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Experience-Cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Experienced-Experts-Ready-to-Help.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Experienced-Experts-Ready-to-Help.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Figma.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Figma.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Financial-Cloud.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Financial-Cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Fine-Tuning-AI-Model-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Fine-Tuning-AI-Model-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Fine-Tuning-AI-Model-Services.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Fine-Tuning-AI-Model-Services.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\FluentD.png",
+      "PackagePath": "staticwebassets\\img\\Services\\FluentD.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Frame-1261157215.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Frame-1261157215.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Frame-1597881651.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Frame-1597881651.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Frame-1597881656.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Frame-1597881656.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Frame-779.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Frame-779.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Frequently-Asked-Questions.jpg",
+      "PackagePath": "staticwebassets\\img\\Services\\Frequently-Asked-Questions.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\GCP.png",
+      "PackagePath": "staticwebassets\\img\\Services\\GCP.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\GPT-4.png",
+      "PackagePath": "staticwebassets\\img\\Services\\GPT-4.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Gemini.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Gemini.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Git.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Git.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\GitHub-Actions.png",
+      "PackagePath": "staticwebassets\\img\\Services\\GitHub-Actions.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\GitHub.png",
+      "PackagePath": "staticwebassets\\img\\Services\\GitHub.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\GitLab-Actions.png",
+      "PackagePath": "staticwebassets\\img\\Services\\GitLab-Actions.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\GitLab-CICD.png",
+      "PackagePath": "staticwebassets\\img\\Services\\GitLab-CICD.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\GitLab.png",
+      "PackagePath": "staticwebassets\\img\\Services\\GitLab.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Google-AI.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Google-AI.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Grafana.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Grafana.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\HTML.png",
+      "PackagePath": "staticwebassets\\img\\Services\\HTML.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Health-Cloud.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Health-Cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Healthcare-Life-science.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Healthcare-Life-science.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\HouseVizit-1-500x500.png",
+      "PackagePath": "staticwebassets\\img\\Services\\HouseVizit-1-500x500.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\HouseVizit-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\HouseVizit-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\HouseVizit.png",
+      "PackagePath": "staticwebassets\\img\\Services\\HouseVizit.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Hyva-Theme.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Hyva-Theme.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\IPCM.png",
+      "PackagePath": "staticwebassets\\img\\Services\\IPCM.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Illustrator.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Illustrator.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Infrastructure-as-Code-IaC-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Infrastructure-as-Code-IaC-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Infrastructure-as-Code-IaC.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Infrastructure-as-Code-IaC.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Integration-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Integration-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Integration-Services.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Integration-Services.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Interactive-Prototyping-Wireframing-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Interactive-Prototyping-Wireframing-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Interactive-Prototyping-Wireframing.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Interactive-Prototyping-Wireframing.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Invision.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Invision.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\JS.png",
+      "PackagePath": "staticwebassets\\img\\Services\\JS.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Jenkins.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Jenkins.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Jira.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Jira.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Kubernetes-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Kubernetes-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Kubernetes.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Kubernetes.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\LWC.png",
+      "PackagePath": "staticwebassets\\img\\Services\\LWC.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\LangChain.png",
+      "PackagePath": "staticwebassets\\img\\Services\\LangChain.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Lets-Build-a-Web-App-That-Works-for-You.jpg",
+      "PackagePath": "staticwebassets\\img\\Services\\Lets-Build-a-Web-App-That-Works-for-You.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Llamaindex.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Llamaindex.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\MVC.png",
+      "PackagePath": "staticwebassets\\img\\Services\\MVC.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Magento-Extensions-Development-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Magento-Extensions-Development-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Magento-Headless-Theme-Integration-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Magento-Headless-Theme-Integration-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Magento-Integration-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Magento-Integration-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Magento-Maintenance-and-Support-Services.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Magento-Maintenance-and-Support-Services.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Magento-Maintenance-and-Support-Services1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Magento-Maintenance-and-Support-Services1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Magento-Migration-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Magento-Migration-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Magento-Profiler.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Magento-Profiler.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Magento-SEO-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Magento-SEO-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Magento-SEO-Services.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Magento-SEO-Services.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Magento-Theme-Development-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Magento-Theme-Development-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Magento-Web-Audit-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Magento-Web-Audit-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\MariaDB.png",
+      "PackagePath": "staticwebassets\\img\\Services\\MariaDB.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Marketing-Cloud.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Marketing-Cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Microsoft-Azure.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Microsoft-Azure.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Migration-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Migration-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Migration-Services.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Migration-Services.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Mobile-Commerce.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Mobile-Commerce.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Monitoring-and-Logging.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Monitoring-and-Logging.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Monitoring-and-Observability-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Monitoring-and-Observability-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Monitoring-and-Observability.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Monitoring-and-Observability.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Mulesoft.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Mulesoft.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Multimodal-AI-Integration-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Multimodal-AI-Integration-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Multimodal-AI-Integration-Services.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Multimodal-AI-Integration-Services.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Network-Security.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Network-Security.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\NewRelic.png",
+      "PackagePath": "staticwebassets\\img\\Services\\NewRelic.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Node-JS.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Node-JS.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\OWASP-Zap.png",
+      "PackagePath": "staticwebassets\\img\\Services\\OWASP-Zap.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Oops.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Oops.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\OpenSearch.png",
+      "PackagePath": "staticwebassets\\img\\Services\\OpenSearch.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Our-Expertise.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Our-Expertise.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Our-Process-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Our-Process-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Our-Process-2.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Our-Process-2.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\PWA-Magento-Theme-Integration-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\PWA-Magento-Theme-Integration-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\PWA-Studio.png",
+      "PackagePath": "staticwebassets\\img\\Services\\PWA-Studio.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Partner.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Partner.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Performance-Marketing-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Performance-Marketing-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Performance-Marketing.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Performance-Marketing.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Performance-Optimization.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Performance-Optimization.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Petmate-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Petmate-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Petmate-2-500x500.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Petmate-2-500x500.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Petmate-2.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Petmate-2.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Phonegap.jpg",
+      "PackagePath": "staticwebassets\\img\\Services\\Phonegap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Photoshop.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Photoshop.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\PhpStorm.png",
+      "PackagePath": "staticwebassets\\img\\Services\\PhpStorm.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Pinecone.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Pinecone.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Prometheus.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Prometheus.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Python.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Python.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\React-native.jpg",
+      "PackagePath": "staticwebassets\\img\\Services\\React-native.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Real-Value-Clear-Results.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Real-Value-Clear-Results.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Redis.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Redis.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\SDLC-Methodologies.png",
+      "PackagePath": "staticwebassets\\img\\Services\\SDLC-Methodologies.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Sales-Cloud.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Sales-Cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Seamless-AI-Integration-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Seamless-AI-Integration-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Seamless-AI-Integration-Services.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Seamless-AI-Integration-Services.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Search-Engine-Marketing-SEM-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Search-Engine-Marketing-SEM-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Search-Engine-Marketing-SEM.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Search-Engine-Marketing-SEM.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Search-Engine-Optimization-SEO.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Search-Engine-Optimization-SEO.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Security-and-Compliance-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Security-and-Compliance-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Security-and-Compliance.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Security-and-Compliance.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Selenium.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Selenium.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Service-Cloud.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Service-Cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Shopify-App-Development-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Shopify-App-Development-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Shopify-App-Development.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Shopify-App-Development.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Shopify-Integration-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Shopify-Integration-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Shopify-Integration-Services.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Shopify-Integration-Services.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Shopify-Maintenance-Support-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Shopify-Maintenance-Support-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Shopify-Maintenance-Support.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Shopify-Maintenance-Support.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Shopify-Migration-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Shopify-Migration-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Shopify-Migration-Services.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Shopify-Migration-Services.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Shopify-Performance-Optimisation-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Shopify-Performance-Optimisation-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Shopify-Performance-Optimisation.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Shopify-Performance-Optimisation.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Shopify-Plus-Development-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Shopify-Plus-Development-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Shopify-Plus-Development.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Shopify-Plus-Development.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Shopify-Store-Development-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Shopify-Store-Development-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Shopify-Store-Development.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Shopify-Store-Development.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Shopify-Theme-Development-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Shopify-Theme-Development-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Shopify-Theme-Development.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Shopify-Theme-Development.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Site-Optimization.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Site-Optimization.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Site24x7.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Site24x7.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Sketch-new.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Sketch-new.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Social-Media-Marketing-SMM-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Social-Media-Marketing-SMM-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Social-Media-Marketing-SMM.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Social-Media-Marketing-SMM.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Sonarqube.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Sonarqube.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Stable-Diffusion.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Stable-Diffusion.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Staredown-1-500x500.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Staredown-1-500x500.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Staredown-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Staredown-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Strategic-Consulting-Services-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Strategic-Consulting-Services-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Strategic-Consulting-Services.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Strategic-Consulting-Services.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Strategic-Features-That-Take-Web-Apps-to-the-Next-Level.jpg",
+      "PackagePath": "staticwebassets\\img\\Services\\Strategic-Features-That-Take-Web-Apps-to-the-Next-Level.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Tech.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Tech.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Terraform.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Terraform.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\The-Top-5-Cross-Platform-Frameworks-to-Power-Your-App-in-2025.jpg",
+      "PackagePath": "staticwebassets\\img\\Services\\The-Top-5-Cross-Platform-Frameworks-to-Power-Your-App-in-2025.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Theme-Customization.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Theme-Customization.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Third-Party-Module-Integration.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Third-Party-Module-Integration.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Tools-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Tools-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Tools.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Tools.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Trivy.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Trivy.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\UX-Audits-Analysis-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\UX-Audits-Analysis-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\UX-Audits-Analysis.png",
+      "PackagePath": "staticwebassets\\img\\Services\\UX-Audits-Analysis.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\UX-Design-1-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\UX-Design-1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\UX-Design-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\UX-Design-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\UX-Design-2.png",
+      "PackagePath": "staticwebassets\\img\\Services\\UX-Design-2.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\UX-Design.png",
+      "PackagePath": "staticwebassets\\img\\Services\\UX-Design.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\UX-Strategy-Consulting-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\UX-Strategy-Consulting-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\UX-Strategy-Consulting.png",
+      "PackagePath": "staticwebassets\\img\\Services\\UX-Strategy-Consulting.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Varnish-Cache.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Varnish-Cache.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Version-Control.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Version-Control.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Visual-Force.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Visual-Force.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Visual-Studio-Code.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Visual-Studio-Code.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\WAF.png",
+      "PackagePath": "staticwebassets\\img\\Services\\WAF.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Wazuh.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Wazuh.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Whisper.png",
+      "PackagePath": "staticwebassets\\img\\Services\\Whisper.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\Xamarin.jpg",
+      "PackagePath": "staticwebassets\\img\\Services\\Xamarin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\ai-Our-Process.png",
+      "PackagePath": "staticwebassets\\img\\Services\\ai-Our-Process.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\bg-box-overlay.png",
+      "PackagePath": "staticwebassets\\img\\Services\\bg-box-overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\curve-arrow-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\curve-arrow-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\download-1.png",
+      "PackagePath": "staticwebassets\\img\\Services\\download-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\fluter.jpg",
+      "PackagePath": "staticwebassets\\img\\Services\\fluter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\image-6.png",
+      "PackagePath": "staticwebassets\\img\\Services\\image-6.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Services\\ionic.jpg",
+      "PackagePath": "staticwebassets\\img\\Services\\ionic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Single-Page-App-SPA-Development.png",
+      "PackagePath": "staticwebassets\\img\\Single-Page-App-SPA-Development.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Web-App-Maintenance-and-Support.png",
+      "PackagePath": "staticwebassets\\img\\Web-App-Maintenance-and-Support.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\Website-Development-img.jpg",
+      "PackagePath": "staticwebassets\\img\\Website-Development-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\background-1.jpg",
+      "PackagePath": "staticwebassets\\img\\background-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\background-14.jpg",
+      "PackagePath": "staticwebassets\\img\\background-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\background-15.jpg",
+      "PackagePath": "staticwebassets\\img\\background-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\background-2.jpg",
+      "PackagePath": "staticwebassets\\img\\background-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\barsa.png",
+      "PackagePath": "staticwebassets\\img\\barsa.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\blogAbacus.avif",
+      "PackagePath": "staticwebassets\\img\\blogAbacus.avif"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\ceo.jpg",
+      "PackagePath": "staticwebassets\\img\\ceo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\checkmark.png",
+      "PackagePath": "staticwebassets\\img\\checkmark.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\client1.png",
+      "PackagePath": "staticwebassets\\img\\client1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\client2.png",
+      "PackagePath": "staticwebassets\\img\\client2.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\client3.png",
+      "PackagePath": "staticwebassets\\img\\client3.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\deepak.jpg",
+      "PackagePath": "staticwebassets\\img\\deepak.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\dillip.jpg",
+      "PackagePath": "staticwebassets\\img\\dillip.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\dwarik.jpg",
+      "PackagePath": "staticwebassets\\img\\dwarik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\favicons\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\favicons\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\favicons\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\img\\favicons\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\favicons\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\img\\favicons\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\favicons\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\favicons\\logo_Abacus.png",
+      "PackagePath": "staticwebassets\\img\\favicons\\logo_Abacus.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\favicons\\manifest.json",
+      "PackagePath": "staticwebassets\\img\\favicons\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\favicons\\mstile-150x150.png",
+      "PackagePath": "staticwebassets\\img\\favicons\\mstile-150x150.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\gallery\\06-f.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\06-f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\gallery\\07-f.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\07-f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\gallery\\09-f.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\09-f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\gallery\\10-f.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\10-f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\header-1.jpg",
+      "PackagePath": "staticwebassets\\img\\header-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\header-5.jpg",
+      "PackagePath": "staticwebassets\\img\\header-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\header-6.jpg",
+      "PackagePath": "staticwebassets\\img\\header-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\icon-play-o.svg",
+      "PackagePath": "staticwebassets\\img\\icon-play-o.svg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\icon-play.svg",
+      "PackagePath": "staticwebassets\\img\\icon-play.svg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\icon-quote.svg",
+      "PackagePath": "staticwebassets\\img\\icon-quote.svg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\icons\\data-analytics.png",
+      "PackagePath": "staticwebassets\\img\\icons\\data-analytics.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\icons\\mail.png",
+      "PackagePath": "staticwebassets\\img\\icons\\mail.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\icons\\money.png",
+      "PackagePath": "staticwebassets\\img\\icons\\money.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\icons\\sharing.png",
+      "PackagePath": "staticwebassets\\img\\icons\\sharing.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\icons\\target.png",
+      "PackagePath": "staticwebassets\\img\\icons\\target.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\icons\\world-globe.png",
+      "PackagePath": "staticwebassets\\img\\icons\\world-globe.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\interior-1.jpg",
+      "PackagePath": "staticwebassets\\img\\interior-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\interior-4.jpg",
+      "PackagePath": "staticwebassets\\img\\interior-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\interior-6.jpg",
+      "PackagePath": "staticwebassets\\img\\interior-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\kc sirr.jpg",
+      "PackagePath": "staticwebassets\\img\\kc sirr.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\library.avif",
+      "PackagePath": "staticwebassets\\img\\library.avif"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\logo-dark.png",
+      "PackagePath": "staticwebassets\\img\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\logo-light.png",
+      "PackagePath": "staticwebassets\\img\\logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\logo_Abacus_pvt.png",
+      "PackagePath": "staticwebassets\\img\\logo_Abacus_pvt.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\mona.jpg",
+      "PackagePath": "staticwebassets\\img\\mona.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\news-1.jpg",
+      "PackagePath": "staticwebassets\\img\\news-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\partner\\gfaa.png",
+      "PackagePath": "staticwebassets\\img\\partner\\gfaa.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\partner\\logo1.png",
+      "PackagePath": "staticwebassets\\img\\partner\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\partner\\logo2.jpg",
+      "PackagePath": "staticwebassets\\img\\partner\\logo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\partner\\logo3.png",
+      "PackagePath": "staticwebassets\\img\\partner\\logo3.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\partner\\logo4.jpeg",
+      "PackagePath": "staticwebassets\\img\\partner\\logo4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\partner\\logo4.png",
+      "PackagePath": "staticwebassets\\img\\partner\\logo4.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\partner\\logo5.png",
+      "PackagePath": "staticwebassets\\img\\partner\\logo5.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\partner\\logo6.png",
+      "PackagePath": "staticwebassets\\img\\partner\\logo6.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\partner\\planitrentalsLogo.jpg",
+      "PackagePath": "staticwebassets\\img\\partner\\planitrentalsLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\partner\\printsome.png",
+      "PackagePath": "staticwebassets\\img\\partner\\printsome.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\partner\\roofconnect.png",
+      "PackagePath": "staticwebassets\\img\\partner\\roofconnect.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\planit.jpg",
+      "PackagePath": "staticwebassets\\img\\planit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\portrait-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\portrait-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\portrait-4.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\portrait-5.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\portrait-6.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\portrait-7.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\portrait-8.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\priya.jpg",
+      "PackagePath": "staticwebassets\\img\\priya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\rakesh.jpg",
+      "PackagePath": "staticwebassets\\img\\rakesh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\roof.webp",
+      "PackagePath": "staticwebassets\\img\\roof.webp"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\satabdi.jpg",
+      "PackagePath": "staticwebassets\\img\\satabdi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\satya.jpg",
+      "PackagePath": "staticwebassets\\img\\satya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\signature.png",
+      "PackagePath": "staticwebassets\\img\\signature.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\square-1.jpg",
+      "PackagePath": "staticwebassets\\img\\square-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\square-2.jpg",
+      "PackagePath": "staticwebassets\\img\\square-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\sree.jpg",
+      "PackagePath": "staticwebassets\\img\\sree.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\video-1.jpg",
+      "PackagePath": "staticwebassets\\img\\video-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\video-screenshot-2.jpg",
+      "PackagePath": "staticwebassets\\img\\video-screenshot-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\img\\why-choose-us.jpg",
+      "PackagePath": "staticwebassets\\img\\why-choose-us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\js\\theme.js",
+      "PackagePath": "staticwebassets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\asspl\\asspl\\asspl\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.asspl.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.asspl.props",
+      "PackagePath": "build\\asspl.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.asspl.props",
+      "PackagePath": "buildMultiTargeting\\asspl.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.asspl.props",
+      "PackagePath": "buildTransitive\\asspl.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,760 @@
+﻿html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+@media (max-width: 991px) {
+    .navbar-toggler {
+        color: #000;
+        border: none;
+        font-size: 30px;
+        padding: 10px;
+        z-index: 1001;
+        position: absolute;
+        right: 15px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    .navbar-collapse {
+        background-color: white;
+        padding: 15px;
+        border-radius: 5px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        margin-top: 10px;
+    }
+
+    .navbar-nav {
+        flex-direction: column;
+        align-items: start;
+    }
+
+    .nav-item {
+        margin-bottom: 10px;
+        width: 100%;
+    }
+
+    .nav-link {
+        color: #dc3545 !important; /* Red color for links */
+        font-weight: bold;
+        padding: 10px 15px; /* Adds padding for better touch targets */
+        display: block; /* Ensures links take full width */
+    }
+
+    #navIcon {
+        color: #dc3545; /* Match the red color from your image */
+        font-size: 24px;
+    }
+
+    /* Styling for dropdown submenus */
+    .dropdown-menu {
+        background-color: #f8f9fa; /* Light background for contrast */
+        border: none;
+        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+        width: 100%; /* Full width for submenus */
+        padding: 10px 0; /* Vertical padding for submenu items */
+    }
+
+    .dropdown-item {
+        color: #dc3545 !important; /* Matches red color of main links */
+        font-weight: 500;
+        padding: 8px 30px; /* Indented padding for hierarchy */
+    }
+
+        .dropdown-item:hover,
+        .dropdown-item:focus {
+            background-color: #e9ecef; /* Subtle hover effect */
+            color: #dc3545 !important;
+        }
+}
+
+.navbar-elixir {
+    width: 100%;
+    background-color: white;
+    z-index: 1000;
+    transition: top 0.3s ease;
+    position: relative;
+}
+
+    .navbar-elixir .container {
+        width: 100%;
+        max-width: 1140px;
+        margin: 0 auto;
+        position: relative;
+    }
+
+.navbar-toggler {
+    border: none;
+    padding: 10px;
+    z-index: 1001;
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 24px;
+    color: #dc3545;
+}
+
+    .navbar-toggler:focus {
+        outline: none;
+        box-shadow: none;
+    }
+
+@media (max-width: 991px) {
+    .navbar-collapse {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background-color: white;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        z-index: 1000;
+        padding: 15px;
+        border-radius: 5px;
+        max-height: calc(100vh - 60px);
+        overflow-y: auto;
+    }
+
+        .navbar-collapse.show {
+            display: block;
+        }
+
+    .navbar-nav {
+        flex-direction: column;
+        align-items: start;
+        padding: 10px 0;
+    }
+
+    .nav-item {
+        margin-bottom: 10px;
+        width: 100%;
+    }
+
+    .nav-link {
+        color: #dc3545 !important;
+        font-weight: bold;
+        padding: 10px 15px;
+        display: block;
+    }
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.job-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    border-radius: 10px;
+    background: #fff;
+    margin-bottom: 15px;
+}
+
+.job-label {
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 0.9rem;
+    margin-right: 10px;
+}
+
+.job-details {
+    flex-grow: 1;
+}
+
+.job-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.job-desc {
+    font-size: 0.9rem;
+    color: #6c757d;
+    margin-bottom: 10px;
+}
+
+.job-meta {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 0.8rem;
+    color: #6c757d;
+}
+
+    .job-meta span {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+    }
+
+    .job-meta .fas {
+        font-size: 0.9rem;
+    }
+
+.view-job-btn {
+    text-decoration: none;
+    font-size: 0.9rem;
+    padding: 5px 15px;
+    background-color: #10184f; /* Matching the theme color */
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    transition: background-color 0.2s;
+    box-shadow: none; /* Remove bloated shadow effect */
+}
+
+    .view-job-btn:hover {
+        background-color: #ff6666; /* Slightly darker on hover */
+        box-shadow: none; /* Ensure no shadow on hover */
+    }
+
+    .view-job-btn:focus {
+        outline: none; /* Remove focus outline */
+        box-shadow: none; /* Remove focus shadow */
+    }
+
+/* Ensure the section container is positioned correctly */
+section.py-0 {
+    position: relative;
+    overflow: hidden;
+}
+
+/* Style the swiper container */
+.min-vh-100 {
+    position: relative;
+}
+
+/* Ensure the swiper slide takes full height */
+.swiper-slide {
+    position: relative;
+    height: 100vh; /* Full viewport height */
+}
+
+/* Style the image container */
+.header-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0; /* Behind the text */
+}
+
+    /* Make the image responsive and cover the container */
+    .header-image img {
+        display: block; /* Ensure the image is visible */
+        width: 100%;
+        height: 100%;
+        object-fit: cover; /* Cover the container without distortion */
+        object-position: center;
+    }
+
+/* Ensure the text container is above the image */
+.container.position-relative {
+    z-index: 1; /* Above the image */
+}
+
+/* Text styling to match the screenshot */
+h1.fs-4.fs-md-5 {
+    color: #dc3545; /* Red color as in the screenshot */
+}
+
+/* Mobile adjustments */
+@media (max-width: 576px) {
+    .swiper-slide {
+        height: auto; /* Allow content to dictate height on mobile */
+        min-height: 70vh; /* Minimum height for mobile */
+    }
+
+    .header-image {
+        height: 100%; /* Match the slide height */
+    }
+
+        .header-image img {
+            height: 100%;
+            object-fit: cover;
+        }
+
+    .row.py-8 {
+        padding: 2rem 0; /* Reduce padding on mobile */
+    }
+
+    h1.fs-4.fs-md-5 {
+        font-size: 2.5rem; /* Adjust font size for mobile */
+    }
+
+    p.fs-1.fs-md-2 {
+        font-size: 1.2rem; /* Adjust font size for mobile */
+    }
+
+    .btn {
+        font-size: 0.9rem; /* Smaller buttons on mobile */
+        padding: 0.5rem 1rem;
+    }
+}
+/* Dropdown styles for desktop */
+.nav-item.dropdown {
+    position: relative;
+}
+
+.dropdown-menu {
+    background-color: white;
+    border: none;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    padding: 10px 0;
+    min-width: 200px;
+}
+
+.dropdown-item {
+    color: #dc3545;
+    font-weight: 500;
+    padding: 8px 20px;
+    display: block;
+}
+
+    .dropdown-item:hover,
+    .dropdown-item:focus {
+        background-color: #e9ecef;
+        color: #dc3545;
+    }
+
+/* Show dropdown on hover for desktop */
+@media (min-width: 992px) {
+    .nav-item.dropdown:hover .dropdown-menu {
+        display: block;
+    }
+
+    .dropdown-menu {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        margin-top: 5px;
+    }
+}
+/* Ensure dropdown toggle is styled consistently */
+.dropdown-toggle::after {
+    border: none;
+    content: '\f078'; /* Font Awesome chevron-down */
+    font-family: 'Font Awesome 6 Free';
+    font-weight: 900;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
+img:is([sizes="auto" i], [sizes^="auto," i]) {
+    contain-intrinsic-size: 3000px 1500px;
+}
+
+img.emoji {
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 0.07em !important;
+    vertical-align: -0.1em !important;
+    background: 0 0 !important;
+    padding: 0 !important;
+}
+
+.elementor-section {
+    padding: 20px 0;
+}
+
+.elementor-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.elementor-column-gap-default {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.elementor-column {
+    flex: 1;
+}
+
+.elementor-col-100 {
+    flex: 0 0 100%;
+    text-align: center;
+}
+
+.elementor-col-33 {
+    flex: 0 0 calc(33.33% - 20px);
+}
+
+.elementor-heading-title {
+    color: #ff6f61;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.prelements-heading .title {
+    color: #1a3555;
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.rs-addon-services {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+
+    .rs-addon-services:hover {
+        transform: translateY(-5px);
+    }
+
+.media_wrap {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+}
+
+.media-cmn img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.overly_style_icon_normal {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 50px;
+    height: 50px;
+    background: #ff6f61;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+    .overly_style_icon_normal img {
+        width: 30px;
+        height: 30px;
+    }
+
+.content_part {
+    padding: 20px;
+}
+
+.services-title .title {
+    color: #1a3555;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.desc-text {
+    color: #666;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.rs-btn {
+    margin-top: 20px;
+}
+
+.rs_button {
+    display: inline-block;
+    padding: 12px 30px;
+    background: #ff6f61;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+}
+
+    .rs_button:hover {
+        background: #e65a50;
+    }
+
+/* Mobile Responsive Styles */
+@media (max-width: 1024px) {
+    .elementor-col-33 {
+        flex: 0 0 calc(50% - 20px);
+    }
+
+    .prelements-heading .title {
+        font-size: 28px;
+    }
+
+    .media_wrap {
+        height: 180px;
+    }
+
+    .services-title .title {
+        font-size: 18px;
+    }
+
+    .desc-text {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 768px) {
+    .elementor-col-33 {
+        flex: 0 0 100%;
+    }
+
+    .elementor-container {
+        padding: 0 10px;
+    }
+
+    .prelements-heading .title {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .elementor-heading-title {
+        font-size: 14px;
+    }
+
+    .media_wrap {
+        height: 200px;
+    }
+
+    .overly_style_icon_normal {
+        width: 40px;
+        height: 40px;
+        top: 15px;
+        left: 15px;
+    }
+
+        .overly_style_icon_normal img {
+            width: 24px;
+            height: 24px;
+        }
+
+    .content_part {
+        padding: 15px;
+    }
+
+    .services-title .title {
+        font-size: 16px;
+    }
+
+    .desc-text {
+        font-size: 12px;
+    }
+
+    .rs_button {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    .prelements-heading .title {
+        font-size: 20px;
+    }
+
+    .elementor-heading-title {
+        font-size: 12px;
+    }
+
+    .media_wrap {
+        height: 150px;
+    }
+
+    .content_part {
+        padding: 10px;
+    }
+
+    .services-title .title {
+        font-size: 14px;
+    }
+
+    .desc-text {
+        font-size: 11px;
+        line-height: 1.5;
+    }
+
+    .rs_button {
+        padding: 8px 15px;
+        font-size: 12px;
+    }
+}
+
+.elementor-section {
+    padding: 40px 0;
+}
+
+.elementor-heading-title {
+    color: #7b9bff;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.prelements-heading .title {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.rs-btn .rs_button {
+    background: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    transition: background 0.3s ease;
+}
+
+    .rs-btn .rs_button:hover {
+        background: #fff;
+        color: #0a1b3c;
+    }
+
+.rs-addon-services {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    padding: 20px;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.feature-image img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.feature-content-style-four h5 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.rs-features-list {
+    list-style: none;
+    padding: 0;
+}
+
+    .rs-features-list li {
+        display: flex;
+        align-items: center;
+        margin-bottom: 15px;
+    }
+
+.icon_wrap img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.rs-feature-text a {
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+    .rs-feature-text a:hover {
+        color: #7b9bff;
+    }
+
+/* Mobile Responsive Styles */
+@media (max-width: 992px) {
+    .prelements-heading .title {
+        font-size: 28px;
+    }
+
+    .feature-content-style-four h5 {
+        font-size: 18px;
+    }
+
+    .rs-feature-text a {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 768px) {
+    .prelements-heading .title {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .elementor-heading-title {
+        font-size: 14px;
+    }
+
+    .feature-image img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .feature-content-style-four h5 {
+        font-size: 16px;
+    }
+
+    .icon_wrap img {
+        width: 25px;
+        height: 25px;
+    }
+
+    .rs-feature-text a {
+        font-size: 12px;
+    }
+
+    .rs-btn .rs_button {
+        font-size: 14px;
+        padding: 8px 15px;
+    }
+}
+
+@media (max-width: 576px) {
+    .prelements-heading .title {
+        font-size: 20px;
+    }
+
+    .elementor-heading-title {
+        font-size: 12px;
+    }
+
+    .rs-btn .rs_button {
+        font-size: 12px;
+        padding: 6px 10px;
+    }
+}
